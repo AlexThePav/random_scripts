@@ -1,3 +1,4 @@
 .vscode
 var_scripts.egg-info
 Pipfile.lock
+__pycache__
